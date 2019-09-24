@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/react_dynamic-list-of-todos/static/css/main.2b31c7ff.chunk.css",
-    "main.js": "/react_dynamic-list-of-todos/static/js/main.cdcc888a.chunk.js",
-    "main.js.map": "/react_dynamic-list-of-todos/static/js/main.cdcc888a.chunk.js.map",
+    "main.js": "/react_dynamic-list-of-todos/static/js/main.532b14f2.chunk.js",
+    "main.js.map": "/react_dynamic-list-of-todos/static/js/main.532b14f2.chunk.js.map",
     "runtime~main.js": "/react_dynamic-list-of-todos/static/js/runtime~main.b6f1ef06.js",
     "runtime~main.js.map": "/react_dynamic-list-of-todos/static/js/runtime~main.b6f1ef06.js.map",
     "static/js/2.78ad98da.chunk.js": "/react_dynamic-list-of-todos/static/js/2.78ad98da.chunk.js",
     "static/js/2.78ad98da.chunk.js.map": "/react_dynamic-list-of-todos/static/js/2.78ad98da.chunk.js.map",
     "index.html": "/react_dynamic-list-of-todos/index.html",
-    "precache-manifest.b5c0bfb1cb33612e503924adb33778d3.js": "/react_dynamic-list-of-todos/precache-manifest.b5c0bfb1cb33612e503924adb33778d3.js",
+    "precache-manifest.29eb1af9f4a9b5e22e9f1037333fd485.js": "/react_dynamic-list-of-todos/precache-manifest.29eb1af9f4a9b5e22e9f1037333fd485.js",
     "service-worker.js": "/react_dynamic-list-of-todos/service-worker.js",
     "static/css/main.2b31c7ff.chunk.css.map": "/react_dynamic-list-of-todos/static/css/main.2b31c7ff.chunk.css.map"
   }
